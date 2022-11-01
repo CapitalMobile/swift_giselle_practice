@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T05:28:28.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="u-knGl2fkbbHRwFmU-9a" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T09:56:54.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uJmt5hpMKr2PoxffZ0aQ" version="20.5.1" type="github">
   <diagram id="-5MKdK6eIRbCkDSXRrTR" name="第 1 页">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BUKAJGDQqXMuFUCt6NBV-60" value="quoteFormatter" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1120" width="140" height="90" as="geometry">
+          <mxGeometry x="210" y="1140" width="140" height="90" as="geometry">
             <mxRectangle x="600" y="1150" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
