@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T06:13:40.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.5.1" etag="_CbLjhIvUYoJNGUOOQ6q" type="github"><diagram id="bfqetra3GVSFVqaWnwdW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-14T04:03:10.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Df4AMZ-Qc5pKgydmprj8" version="20.5.3" type="github">
+  <diagram id="bfqetra3GVSFVqaWnwdW" name="第 1 页">
+    <mxGraphModel dx="4722" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-5" value="VM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-6" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-7" value="自選股UseCase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-8" value="新增repository&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-9" value="刪除repository&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-10" value="修改repository&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWYPFVUVkMHF3dRhS6u-12" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="530" width="550" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
